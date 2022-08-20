@@ -1,7 +1,7 @@
 {
     "basic_info": {
-      "description_header": "Hi",
-      "description": "👋 I'm Keelen Fisher. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description_header": "Hi There! 😁",
+      "description": " I'm Keelen Fisher, a full time student for Code Fellow's Software Developmental program. I studies Computer Science ad the University of Houston Clear Lake, and I decided that I wanted to branch out an learn more about Full Stack Development. This career field truly excites me, from concepts of building virtual machines to applying problem solving skill like you never have before. It is all remarkable. I wante to see what part of Computer Science can provide me with good ambition and never-ending developmental possibilities. I would love to be a part of start up companies that provide a healthy and inviting environment, then soon join large corporations and assist in big changes across the country then the world. Take a look around my world, or in other words my website and enjoy! Thank you 🤟",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -18,7 +18,7 @@
           "images/portfolio/animal-shelter/p1.jpg",
           "images/portfolio/animal-shelter/p2.jpg"
         ],
-        "url": "",
+        "url": "https://github.com/Keelen-Fisher",
         "technologies": [
           {
             "class": "devicon-angularjs-plain",
@@ -42,7 +42,7 @@
           "images/portfolio/photography/p1.jpg",
           "images/portfolio/photography/p2.jpg"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/Keelen-Fisher",
         "technologies": [
           {
             "class": "devicon-react-original",
@@ -62,7 +62,7 @@
           "images/portfolio/adventure/p1.jpg",
           "images/portfolio/adventure/p2.jpg"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/Keelen-Fisher",
         "technologies": [
           {
             "class": "devicon-angularjs-plain",
