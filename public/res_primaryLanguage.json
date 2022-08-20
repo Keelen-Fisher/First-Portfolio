@@ -11,14 +11,14 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "Mood Generator ",
+        "startDate": "Aug 2022",
+        "description": "Built virtual lists and responses based on user interaction between questions through programming languages JavaScript, CSS, and HTML. Also, created rotation boxes animation through CSS and used object literals, constructs, and prototypes to build the website.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/animal-shelter/Image of current fav project 1.png",
+          "images/portfolio/animal-shelter/image of current fav project 2.png"
         ],
-        "url": "https://github.com/Keelen-Fisher",
+        "url": "https://team-baby.github.io/Gold-Diggers/ ",
         "technologies": [
           {
             "class": "devicon-angularjs-plain",
@@ -35,14 +35,14 @@
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "title": "Cookie-Stand",
+        "startDate": "July 2022",
+        "description": "Built virtual tables through programming languages HTML, JavaScript and CSS. Used object literal, constructs, and prototypes to build website.",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/photography/Salmon Cookies img1.png",
+          "images/portfolio/photography/Salmon Cookies img2.png"
         ],
-        "url": "https://github.com/Keelen-Fisher",
+        "url": "https://keelen-fisher.github.io/cookie-stand/",
         "technologies": [
           {
             "class": "devicon-react-original",
@@ -55,14 +55,14 @@
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "Travel Website",
+        "startDate": "Jun 2022",
+        "description": "Using JavaScript and CSS. Used alert actions, CSS rendering and methods to build this website.",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/adventure/World Tour img1.png",
+          "images/portfolio/adventure/World Tour img2.png"
         ],
-        "url": "https://github.com/Keelen-Fisher",
+        "url": "https://keelen-fisher.github.io/trinidad-dubai/",
         "technologies": [
           {
             "class": "devicon-angularjs-plain",
@@ -81,37 +81,34 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Code Fellows",
+        "title": "Full Stack Development in JavaScript",
+        "years": "05.2022- present",
         "mainTech": [
-          "Angular 8/9/10"
+          "Current Education"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
+          "React",
           "JavaScript",
+          "HTML",
           "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "CSS",
+          "Marckdown",
+          "Wireframming"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "University of Houston Clear Lake",
+        "title": "Bechelors Degree in Computer Science",
+        "years": "08.2019 - 05.2024",
         "mainTech": [
-          "Angular 7/8"
+          "Previous History w/ Skils"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "Java Fundamentals",
+          "Python Fundamentals",
+          "Numerical Methods",
+          "Project Management"
         ]
       }
     ]
