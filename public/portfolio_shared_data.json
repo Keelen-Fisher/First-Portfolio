@@ -1,20 +1,20 @@
 {
     "basic_info": {
       "name": "Keelen Fisher",
-      "titles": [ "Software Developer" ],
+      "titles": [ "Software Developer and Student at CodeFellows | Actively Looking for Software Developer Opportunities - JavaScript | Python | Java" ],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/Keelen-Fisher",
           "class": "fab fa-github"
         },
         {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/keelen-fisher-b63766148/",
           "class": "fab fa-instagram"
         }
       ],
-      "image": "myProfile.jpg"
+      "image": "Keelen Elijah Fisher Professional Headshot Edited.jpg"
     },
     "skills": {
       "icons": [
