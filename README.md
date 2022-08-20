@@ -4,4 +4,5 @@ Make it your own!
 
 ## Link to the deployed site
 
-[https://clinquant-unicorn-b49d99.netlify.app/]
+[https://clinquant-unicorn-b49d99.netlify.app/](Link to the deployed site)
+<!--  -->
