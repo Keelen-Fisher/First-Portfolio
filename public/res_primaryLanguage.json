@@ -1,7 +1,7 @@
 {
     "basic_info": {
-      "description_header": "Hi There! 😁",
-      "description": " I'm Keelen Fisher, a full time student for Code Fellow's Software Developmental program. I studies Computer Science ad the University of Houston Clear Lake, and I decided that I wanted to branch out an learn more about Full Stack Development. This career field truly excites me, from concepts of building virtual machines to applying problem solving skill like you never have before. It is all remarkable. I wante to see what part of Computer Science can provide me with good ambition and never-ending developmental possibilities. I would love to be a part of start up companies that provide a healthy and inviting environment, then soon join large corporations and assist in big changes across the country then the world. Take a look around my world, or in other words my website and enjoy! Thank you 🤟",
+      "description_header": "Hi There! ",
+      "description": " I'm Keelen Fisher, a full time student for Code Fellow's Software Developmental program. I studies Computer Science ad the University of Houston Clear Lake, and I decided that I wanted to branch out an learn more about Full Stack Development. This career field truly excites me, from concepts of building virtual machines to applying problem solving skill like you never have before. It is all remarkable. I wanted to see what part of Computer Science can provide me with good ambition and never-ending developmental possibilities. I would love to be a part of start up companies that provide a healthy and inviting environment, then soon join large corporations and assist in big changes across the country then the world. Take a look around my world, or in other words my website and enjoy! Thank you 🤟",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -11,38 +11,34 @@
     },
     "projects": [
       {
-        "title": "Mood Generator ",
-        "startDate": "Aug 2022",
-        "description": "Built virtual lists and responses based on user interaction between questions through programming languages JavaScript, CSS, and HTML. Also, created rotation boxes animation through CSS and used object literals, constructs, and prototypes to build the website.",
+        "title": "inquirio",
+        "startDate": "November 2022",
+        "description": "A digital learning platform that gives users access to online courses, certifications etc. Users are able to find educational tools to advance their learning. in addition, the application gives gives people access to further advances while taking courses online. This application takes away the need to do countless research on what are the best resources to be successful in their career field. Instead, they can increase their productivity by navigating through the application and learning in different sources of education.",
         "images": [
-          "images/portfolio/animal-shelter/Image of current fav project 1.png",
-          "images/portfolio/animal-shelter/image of current fav project 2.png"
+          "/images/portfolio/animal-shelter/Inquiro 1.png",
+          "images/portfolio/animal-shelter/Inquiro 2.png"
         ],
-        "url": "https://team-baby.github.io/Gold-Diggers/ ",
+        "url": "https://inquirio.vercel.app/",
         "technologies": [
           {
             "class": "devicon-angularjs-plain",
             "name": "Angular"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           }
         ]
       },
       {
-        "title": "Cookie-Stand",
-        "startDate": "July 2022",
-        "description": "Built virtual tables through programming languages HTML, JavaScript and CSS. Used object literal, constructs, and prototypes to build website.",
+        "title": "Untapped Island",
+        "startDate": "October 2022",
+        "description": "A card collection portfolio for all users who are interested in trading card games. Users can search all cards through a (3rd party Dataset) and add any of their choosing to their portfolio. They can then set them into their portfolio to view and remove if desired. This solves the issue of collecting cards that you own and trying to learn about every feature of each card. This can also help you to easily access cards that you have recently added to your collection into a portfolio of your own without having to manually add all of the featured details yourself, effectively saving you plenty time.",
         "images": [
-          "images/portfolio/photography/Salmon Cookies img1.png",
-          "images/portfolio/photography/Salmon Cookies img2.png"
+          "images/portfolio/photography/Untapped 1.png",
+          "images/portfolio/photography/Untapped 2.png"
         ],
-        "url": "https://keelen-fisher.github.io/cookie-stand/",
+        "url": "https://github.com/Keelen-Fisher/rest-api-untappedIsland",
         "technologies": [
           {
             "class": "devicon-react-original",
@@ -55,26 +51,39 @@
         ]
       },
       {
-        "title": "Travel Website",
-        "startDate": "Jun 2022",
-        "description": "Using JavaScript and CSS. Used alert actions, CSS rendering and methods to build this website.",
+        "title": "Algo Challenger",
+        "startDate": "September 2022",
+        "description": "An application that lets users complete code challenges and can view stats of code challenges that they have completed. This gives students and self taught learners another way to challenge themselves through common code. Users can choose which code that they would like to work on, save their choice (favorites Icon), and delete their previous saves. Users can have a stats profile with a summary of their accomplishment: “insert name ” Has completed “insert number of” challenges",
         "images": [
-          "images/portfolio/adventure/World Tour img1.png",
-          "images/portfolio/adventure/World Tour img2.png"
+          "images/portfolio/adventure/Algo 1.png",
+          "images/portfolio/adventure/Algo 2.png"
         ],
-        "url": "https://keelen-fisher.github.io/trinidad-dubai/",
+        "url": "https://github.com/Algo-Challenger/Algo-Challenger-FrontEnd",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-react-original",
+            "name": "React"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "Mood Generator",
+        "startDate": "August 2022",
+        "description": "A Generator for streaming shows and music based on user emotions, provides user with media output based on emotions to hopefully uplift user. Gives the user the ability to express emotion which then provides support through resources",
+        "images": [
+          "images/portfolio/mood-gen/Image of current fav project 1.png",
+          "images/portfolio/mood-gen/image of current fav project 2.png"
+        ],
+        "url": "team-baby.github.io/Gold-Diggers/",
+        "technologies": [
+
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           }
         ]
       }
@@ -93,7 +102,7 @@
           "HTML",
           "Bootstrap",
           "CSS",
-          "Marckdown",
+          "Markdown",
           "Wireframming"
         ]
       },
